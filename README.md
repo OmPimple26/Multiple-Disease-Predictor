@@ -3,8 +3,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/)
-[![Machine Learning](https://img.shields.io/badge/ML-7%20Models-green?logo=scikit-learn)]
-[![AI Assistant](https://img.shields.io/badge/AI-Chatbot-purple?logo=chatbot)]
+[![Machine Learning](https://img.shields.io/badge/ML-7%20Models-green?logo=scikit-learn)
+[![AI Assistant](https://img.shields.io/badge/AI-Chatbot-purple?logo=chatbot)
 
 An advanced **AI-powered web app** that predicts diseases based on user-input symptoms 🤒 using 7 different machine learning models. Users can choose the model, see disease probabilities, classification reports, get static prescriptions 💊, and even chat with an AI assistant 🤖 for medical queries.
 
