@@ -67,3 +67,7 @@ Om Pimple
 📧 ompimple04@gmail.com
 🔗 https://github.com/OmPimple26
 🔗 www.linkedin.com/in/om-pimple-0042822b3
+
+---
+
+🚀 **Live Demo on Streamlit Community Cloud**: [Click Here to Try It Out!](https://multiple-disease-predictor-project.streamlit.app/)
